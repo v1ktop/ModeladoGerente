@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ModeladoGerente": {
+      "commandName": "Project",
+      "commandLineArgs": "Alberto"
+    }
+  }
+}
